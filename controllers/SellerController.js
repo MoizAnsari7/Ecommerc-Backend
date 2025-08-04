@@ -203,6 +203,6 @@ const SellerController = {
             });
         }
     }
-};
+};  
 
 module.exports = SellerController;
